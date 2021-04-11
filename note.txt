@@ -1,1 +1,3 @@
 this is first message from note
+
+the new message
